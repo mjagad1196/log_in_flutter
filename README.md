@@ -4,6 +4,9 @@ A Flutter project for log in and sign up UI inspired from https://dribbble.com/s
 
 UI credits : https://dribbble.com/oliver
 
+![Alt text](flutter_01.png?raw=true "Log in")
+![Alt text](flutter_02.png?raw=true "Sign up")
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
