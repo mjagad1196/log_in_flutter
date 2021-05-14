@@ -1,6 +1,8 @@
 # log_in_flutter
 
-A new Flutter project for log in UI
+A Flutter project for log in and sign up UI inspired from https://dribbble.com/shots/15230513-Sign-up-Daily-UI-001
+
+UI credits : https://dribbble.com/oliver
 
 ## Getting Started
 
