@@ -4,8 +4,8 @@ A Flutter project for log in and sign up UI inspired from https://dribbble.com/s
 
 UI credits : https://dribbble.com/oliver
 
-![Alt text](flutter_01.png?raw=true "Log in")
-![Alt text](flutter_02.png?raw=true "Sign up")
+<img src="https://github.com/mjagad1196/log_in_flutter/flutter_01.png" align="left" height="1000" width="500" >
+<img src="https://github.com/mjagad1196/log_in_flutter/flutter_02.png" align="left" height="1000" width="500" >
 
 ## Getting Started
 
