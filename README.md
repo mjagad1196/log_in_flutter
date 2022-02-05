@@ -10,6 +10,7 @@ UI credits : https://dribbble.com/oliver
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+This is a new project
 
 A few resources to get you started if this is your first Flutter project:
 
